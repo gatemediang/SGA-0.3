@@ -1,6 +1,6 @@
 # SGA-0.3
 
-#General Assembly Dash PROJECTS COMPLETE
+# General Assembly Dash PROJECTS COMPLETE
 
 PROJECT 1: BUILD A PERSONAL WEBSITE
 http://dash.ga.co/webtj/build-your-own-personal-website
